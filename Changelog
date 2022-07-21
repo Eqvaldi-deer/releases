@@ -1,7 +1,10 @@
+Release1.x
+- Add firmware-brcm80211
+
 Release 1.1
 - Removed XFCE4 power-manager power-manager-plugins (Mate Desktop).
-- Added Cinnamon DE.
-- Added Mate power manager (Mate Desktop).
+- Add Cinnamon DE.
+- Add Mate power manager (Mate Desktop).
 - Bump Linux kernel version 5.15.48 ,5.17.15 ,5.4.199 ,5.10.123 (Current).
 - Bump Debian 11.4
 
