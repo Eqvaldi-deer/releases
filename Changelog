@@ -1,5 +1,5 @@
-Release1.x (WIP)
-- Add firmware-brcm80211
+Release1.8dev (WIP)
+- Add firmware-brcm80211 (Removed due to Armbian-firmware pakage)
 
 Release 1.1
 - Removed XFCE4 power-manager power-manager-plugins (Mate Desktop).
