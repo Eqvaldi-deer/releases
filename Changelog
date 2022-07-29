@@ -1,6 +1,7 @@
 Release1.8dev (WIP)
 - Add firmware-brcm80211 (Removed due to Armbian-firmware pakage)
 - Add pakages :git nasm libgl1-mesa-dev libsdl2-dev libflac-dev libvpx-dev libgtk2.0-dev freepats ninja-build qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev 
+- Add pakages :openssl miniupnpc libao-dev
 - Add Budgie Desktop
 - Add Debian Sid builds
 - Remove legacy kernel Builds
