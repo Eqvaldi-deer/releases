@@ -6,6 +6,7 @@ Release1.8dev (WIP)
 - Remove legacy kernel Builds.
 - Rebase on Deian Minimal.
 - Add more SBC to cinnamon.
+- Revert to Chronium (web-browser)
 
 Release 1.1
 - Removed XFCE4 power-manager power-manager-plugins (Mate Desktop).
