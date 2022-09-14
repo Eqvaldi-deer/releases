@@ -5,7 +5,7 @@ Release1.8dev (WIP)
 - Bump Debian 11.5
 - Remove legacy kernel Builds.
 - Rebase on Deian Minimal.
-- Add more SBC to cinnamon.
+- Add more SBCs to cinnamon.
 - Revert to Chronium (web-browser)
 
 Release 1.1
