@@ -1,8 +1,8 @@
 Release1.8dev (WIP)
-- Add firmware-brcm80211 (Removed due to Armbian-firmware pakage)
 - Add pakages :git nasm libgl1-mesa-dev libsdl2-dev libflac-dev libvpx-dev libgtk2.0-dev freepats ninja-build qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev 
 - bump Armbian to 22.11.0
 - Bump Debian 11.5
+- Bump Linux kernel version 5.15.73 ,5.19.16 ,5.4.218 ,5.10.123 (Current).
 - Remove legacy kernel Builds.
 - Rebase on Deian Minimal.
 - Add more SBCs to cinnamon.
