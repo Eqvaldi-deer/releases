@@ -2,7 +2,7 @@ Release1.8
 - Add pakages :git nasm libgl1-mesa-dev libsdl2-dev libflac-dev libvpx-dev libgtk2.0-dev freepats ninja-build qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev 
 - bump Armbian to 22.11.0
 - Bump Debian 11.5
-- Bump Linux kernel version 5.15.74 ,5.19.16 5.10.147 ,5.4.218 (Current).
+- Bump Linux kernel version 5.15.74 ,5.19.16 ,5.10.147 ,5.4.218 (Current).
 - Remove legacy kernel Builds.
 - Add more SBCs to cinnamon.
 - Revert to Chronium (web-browser)
