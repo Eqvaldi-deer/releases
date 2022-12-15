@@ -2,6 +2,7 @@ Release2.0
 - Remove Nvidia Jetson Nano builds
 - Bump Armbian to 23.02
 - Add firmware-sof-signed (X86 only)
+- Add openarena (X86 only)
 
 Release1.8
 - Add pakages :git nasm libgl1-mesa-dev libsdl2-dev libflac-dev libvpx-dev libgtk2.0-dev freepats ninja-build qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev 
