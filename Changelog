@@ -1,6 +1,7 @@
 Release2.0
 - Remove Nvidia Jetson Nano builds
 - Bump Armbian to 23.02
+- Bump Debian 11.6
 - Add firmware-sof-signed (X86 only)
 - Add openarena (X86 only)
 
