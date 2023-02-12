@@ -1,5 +1,6 @@
-Release2.0dev
-- Remove Nvidia Jetson Nano builds
+Release2.1dev
+- move to minimal from standard debian
+- Jetson Nano builds (will try again)
 - Bump Armbian to 23.02
 - Bump Debian 11.6
 - Add firmware-sof-signed (X86 only)
