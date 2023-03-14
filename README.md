@@ -8,3 +8,5 @@ Images of https://github.com/Eqvaldi-deer/build
 * First Number (OS Version)
 * Second Number (LTS Version)
 * Third Number (MMDDYY of release)
+
+For experimental builds :https://github.com/Eqvaldi-deer/build/releases
