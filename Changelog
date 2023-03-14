@@ -1,6 +1,7 @@
 Release2.5dev (V2-LTS)
 - Bump Armbian to 23.05
-Release2.1 (V2-LTS)
+
+Release2.1.031423 (V2-LTS)
 - move to minimal from standard debian
 - Jetson Nano builds 
 - Bump Armbian to 23.02
@@ -8,7 +9,7 @@ Release2.1 (V2-LTS)
 - Add firmware-sof-signed (X86 only)
 - Add openarena (removed)
 
-Release1.8
+Release1.8 (V1-LTS EOL)
 - Add pakages :git nasm libgl1-mesa-dev libsdl2-dev libflac-dev libvpx-dev libgtk2.0-dev freepats ninja-build qtbase5-dev qtbase5-private-dev qtbase5-dev-tools qttools5-dev 
 - Bump Armbian to 22.11.0
 - Bump Debian 11.5
@@ -17,12 +18,12 @@ Release1.8
 - Add more SBCs to cinnamon.
 - Revert to Chronium (web-browser)
 
-Release 1.1
+Release 1.1 (V1-LTS EOL)
 - Removed XFCE4 power-manager power-manager-plugins (Mate Desktop).
 - Add Cinnamon DE.
 - Add Mate power manager (Mate Desktop).
 - Bump Linux kernel version 5.15.48 ,5.17.15 ,5.4.199 ,5.10.123 (Current).
 - Bump Debian 11.4
 
-Release 1.0
+Release 1.0 (V1-LTS EOL)
 -Initial release
