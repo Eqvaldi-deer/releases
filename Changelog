@@ -1,5 +1,11 @@
+Release3.0dev (V3-LTS)
+- Bump Armbian to 23.05
+- Add pakages :bash-completion alsa-utils apt-utils sudo
+- Move to Bookworm
+
 Release2.5dev (V2-LTS)
 - Bump Armbian to 23.05
+- Add pakages :bash-completion alsa-utils apt-utils sudo
 
 Release2.1.031423 (V2-LTS)
 - move to minimal from standard debian
