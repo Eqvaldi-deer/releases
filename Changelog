@@ -9,7 +9,7 @@ Release2.5dev (V2-LTS)
 
 Release2.1.031423 (V2-LTS)
 - move to minimal from standard debian
-- Jetson Nano builds 
+- Remove Jetson Nano builds 
 - Bump Armbian to 23.02
 - Bump Debian 11.6
 - Add firmware-sof-signed (X86 only)
