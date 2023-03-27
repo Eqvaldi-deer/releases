@@ -2,6 +2,7 @@ Release3.0dev (V3-LTS)
 - Bump Armbian to 23.05
 - Add pakages :bash-completion alsa-utils apt-utils sudo
 - Move to Bookworm
+- Add back Jetson Nano builds
 
 Release2.5dev (V2-LTS)
 - Bump Armbian to 23.05
