@@ -3,13 +3,13 @@ Release3.2dev (V3-LTS)
 - Add back Jetson Nano builds
 - Bump Debian to 12
 
-Release3.0 (V3-LTS)
+Release3.0.053023 (V3-LTS)
 - Bump Armbian to 23.05
 - Add pakages :bash-completion alsa-utils apt-utils sudo alsa-firmware-loaders cifs-utils
 - Move to Bookworm
 - Bump Linux kernel version ,6.1.xx ,5.4.242 ,(EDGE 6.3.x) (Current).
 
-Release2.5 (V2-LTS)
+Release2.5.053023 (V2-LTS)
 - Bump Armbian to 23.05
 - Bump Debian to 11.7
 - Add pakages :bash-completion alsa-utils apt-utils sudo alsa-firmware-loaders cifs-utils
