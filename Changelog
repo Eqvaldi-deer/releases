@@ -3,6 +3,7 @@ Release3.2dev (V3-LTS)
 - Add back Jetson Nano builds
 - Bump Debian to 12.0
 - Add pakages :alsa-firmware-loaders cifs-utils vainfo vdpauinfo glmark2 armbian-config
+- Build Debian 13 for Testing with an EDGE Kernel 
 
 Release3.0.053023 (V3-LTS)
 - Bump Armbian to 23.05
