@@ -5,7 +5,7 @@ Release3.2.080623 (V3-LTS)
 - Bump Armbian to 23.08
 - Add back Jetson Nano builds
 - Bump Debian to 12.1
-- Add pakages :alsa-firmware-loaders cifs-utils vainfo vdpauinfo glmark2 armbian-config pciutils (X86only:firmware-nvidia-gsp)
+- Add pakages :alsa-firmware-loaders cifs-utils vainfo vdpauinfo glmark2 pciutils (X86only:firmware-nvidia-gsp)
 - Build Debian 13 for Testing with an EDGE Kernel 
 
 Release3.0.053023 (V3-LTS)
