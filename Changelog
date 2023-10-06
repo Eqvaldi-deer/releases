@@ -1,3 +1,13 @@
+Release3.3.100623-dev (V3-LTS)
+- Bump Armbian to 23.11
+- Bump Debian to 12.1
+- Add pakages :libsdl2-net-dev spek
+
+Release2.7.100623-dev (V2-LTS)
+- Bump Armbian to 23.11
+- Bump Debian to 11.7
+- Add pakages :libsdl2-net-dev
+
 Release2.6.080623 (V2-LTS)
 - Bump Armbian to 23.08
 
