@@ -1,3 +1,8 @@
+Release4.0-dev (V4-LTS)
+- Bump Armbian to 23.11
+- Bump Debian to 13.0
+- Add pakages :vkmark libsdl2-net-dev spek
+
 Release3.3.100623-dev (V3-LTS)
 - Bump Armbian to 23.11
 - Bump Debian to 12.2
