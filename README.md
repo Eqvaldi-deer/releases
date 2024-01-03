@@ -3,13 +3,13 @@ Release4.0-dev (V4-LTS)
 - Bump Debian to 13.0
 - Add pakages :vkmark libsdl2-net-dev spek eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
 
-Release3.5.100623-dev (V3-LTS)
+Release3.5.010324-dev (V3-LTS)
 - Bump Armbian to 24.2
 - Bump Debian to 12.4
 - Bump Linux kernel version to (6.6.xx ,6.1.xx, Current),(EDGE 6.7.x).
 - Add pakages :eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
 
-Release2.8.100623-dev (V2-LTS)
+Release2.8.010324-dev (V2-LTS)
 - Bump Armbian to 24.2
 
 Release3.3.100623 (V3-LTS)
