@@ -16,6 +16,7 @@ Release3.5.010324-dev (V3-LTS)
 
 Release2.8.010324-dev (V2-LTS)
 - Bump Armbian to 24.8
+- Bunp linux kernels to 2024.6.9.
 
 Release3.3.100623 (V3-LTS)
 - Bump Armbian to 23.11
