@@ -10,7 +10,7 @@ Release4.0-dev (V4-LTS)
 Release3.5.010324-dev (V3-LTS)
 - Bump Armbian to 24.8
 - Bump Debian to 12.5
-- Bump Linux kernel version to (6.6.xx ,6.1.xx, Current),(EDGE 6.7.x).
+- Bunp linux kernels to 2024.6.9.
 - Add pakages :eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
 - Add numix icon theme
 
