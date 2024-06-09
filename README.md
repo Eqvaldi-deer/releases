@@ -7,14 +7,14 @@ Release4.0-dev (V4-LTS)
 - Add numix icon theme.
 - Temporary remove ARMHF support.
   
-Release3.5.010324-dev (V3-LTS)
+Release3.5.061624-dev (V3-LTS)
 - Bump Armbian to 24.8
 - Bump Debian to 12.5
 - Bunp linux kernels to 2024.6.9.
 - Add pakages :eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
 - Add numix icon theme
 
-Release2.8.010324-dev (V2-LTS)
+Release2.8.061624-dev (V2-LTS)
 - Bump Armbian to 24.8
 - Bunp linux kernels to 2024.6.9.
 
