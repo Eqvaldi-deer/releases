@@ -2,10 +2,10 @@ Release4.0-dev (V4-LTS)
 - Bump Armbian to 24.8
 - Bump Debian to 13.0
 - Bunp linux kernels to 2024.6.9.
-- Replace neoftch with hyfech
-- Add pakages :vkmark libsdl2-net-dev spek
-- Add numix icon theme
-
+- Replace neoftch with hyfech.
+- Add pakages :vkmark libsdl2-net-dev spek.
+- Add numix icon theme.
+- Temporary remove ARMHF support.
   
 Release3.5.010324-dev (V3-LTS)
 - Bump Armbian to 24.8
