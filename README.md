@@ -3,7 +3,7 @@ Release4.0-dev (V4-LTS)
 - Bump Debian to 13.0
 - Bunp linux kernels to 2024.6.9.
 - Replace neoftch with hyfech
-- Add pakages :vkmark libsdl2-net-dev spek eject libzip-dev zipcmp zipmerge ziptool libsdl2-mixer-dev
+- Add pakages :vkmark libsdl2-net-dev spek
 - Add numix icon theme
 
   
